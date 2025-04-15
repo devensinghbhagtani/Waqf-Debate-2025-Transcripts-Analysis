@@ -12,6 +12,6 @@ This repository contains refined transcripts and AI-generated analysis of speech
   - [Amit Shah’s Speech](https://www.youtube.com/live/pnVpj41yQRw?si=Tg4jlSKx9N6_yW_y)
   - [Owaisi’s Speech](https://youtu.be/jsDHzOpJCJo?si=jrQLB7CV4l5V1hZo)
 
-## Usage
+## Detailed Report
 
-Run the notebooks to analyze speeches or generate timestamped segments.
+[Project Documentation (Google Doc)](https://docs.google.com/document/d/1YTFcrT7DI77tWuPjcXDgi8BUvFTsbW0zzleYqxvVonw/edit?usp=sharing)
